@@ -1,3 +1,3 @@
 # Task-02
 
-Stopwatch web Application
+A simple Stopwatch web Application 
